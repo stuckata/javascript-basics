@@ -1,0 +1,10 @@
+{
+  "name": "JavaScriptLoopsArraysStrings",
+  "version": "0.0.0",
+  "description": "JavaScriptLoopsArraysStrings",
+  "main": "app.js",
+  "author": {
+    "name": "stu",
+    "email": ""
+  }
+}
