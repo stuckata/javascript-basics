@@ -1,0 +1,10 @@
+{
+  "name": "powerfulCars",
+  "version": "0.0.0",
+  "description": "powerfulCars",
+  "main": "app.js",
+  "author": {
+    "name": "stu",
+    "email": ""
+  }
+}
